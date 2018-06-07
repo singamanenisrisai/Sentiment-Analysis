@@ -11,3 +11,11 @@
 #### Step 2: Then Written a Python script to capture twitter tweets using twitter API and stored them in CSV format.
 #### Step 3: After extracting tweets done Sentiment Analysis using Vander Sentiment library and Categorized tweets according to the sentiment score.
 #### Step 4: Finally Uploaded tweets in to elastic search using python script and ran queries on it.
+
+#### Output files are also uploaded for reference.
+
+#### References:
+##### GitHub. (2018). williamleif/socialsent. [online] Available at: https://github.com/williamleif/socialsent [Accessed 7 Jun. 2018].
+##### “Elasticsearch DSL¶.” Elasticsearch DSL - Elasticsearch DSL 6.1.0 Documentation, elasticsearch-dsl.readthedocs.io/en/latest/.
+##### “Python 3.6.5 Documentation.” 4. More Control Flow Tools - Python 3.6.5 Documentation, docs.python.org/3/index.html.
+##### Cjhutto. “Cjhutto/VaderSentiment.” GitHub, github.com/cjhutto/vaderSentiment.
